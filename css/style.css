@@ -366,3 +366,73 @@ ul.slick-dots {
 	float: left;
 }
 
+@media (min-width: 481px) and (max-width: 767px) {
+  
+ 
+  
+}
+
+
+@media (min-width: 320px){
+  
+  main, .content {
+	width: 95%;
+
+	}
+
+
+	.sec_3 {
+    width: 30%;
+	}
+
+	.texto_destaque1 p {
+	font-size: 14px;
+}
+
+.texto_destaque1 h1 {
+    padding-top: 20px;
+}
+  
+}
+
+@media (min-width: 480px){
+  
+  main, .content {
+		width: 96%;
+
+	}
+
+	.sec_3 {
+    width: 30%;
+	}
+	.texto_destaque1 p {
+		font-size: 14px;
+	}
+
+	.texto_destaque1 h1 {
+	    padding-top: 20px;
+	}
+  
+}
+
+@media (min-width:960px){
+
+  main, .content {
+	width: 90%;
+
+	}
+
+		.sec_3 {
+    width: 30%;
+	}
+
+}
+
+@media (min-width:1200px){
+
+  main, .content {
+	width: 980px;
+
+	}
+
+}
