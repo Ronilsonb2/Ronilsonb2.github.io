@@ -374,12 +374,17 @@ ul.slick-dots {
 
 
 @media (min-width: 320px){
+
+	
   
   main, .content {
 	width: 95%;
 
 	}
 
+	.header-2 {
+		width: 95%;
+	}
 
 	.sec_3 {
     width: 30%;
