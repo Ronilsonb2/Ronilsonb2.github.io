@@ -375,17 +375,27 @@ ul.slick-dots {
 
 @media (min-width: 320px){
 
-	
+
   
   main, .content {
-	width: 95%;
+	width: 90%;
 
 	}
 
 	.header-2 {
-		width: 95%;
+		width: 90%;
 	}
 
+	.barra_nav {
+		width: 68%;
+	}
+	.busca input {
+	    width: 220px;
+	    height: 22px;
+	}
+	.busca {
+	    width: 27%;
+	}
 	.sec_3 {
     width: 30%;
 	}
